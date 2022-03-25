@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, friend
 
 <!--
 **osouza-de/osouza-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Glad you reach my GitHub repository but...
+I do not live here.
+
+I mean, I love [GitLab](https://gitlab.com) and [there's my code home](https://gitlab.com/osouza.de) ;) (sorry Micro$oft)
+
+
+// So you may ask "Why the hack you have code here?!"
+
+The answer is simple, my dear grasshopper friend:
+
+- The companies I work likes to use github as it's codebase, so...
